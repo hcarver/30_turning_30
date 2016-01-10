@@ -4,7 +4,13 @@
 
 There's actually 33 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
 
-### Media, Culture etc.
+### Updates
+
+* [Week 1](updates/week_1)
+
+### The List
+
+#### Media, Culture etc.
 
 Cultural experiences I feel I've missed out on.
 
@@ -13,7 +19,7 @@ Cultural experiences I feel I've missed out on.
 1. `ZEL` Finish Zelda on the NES
 1. `WUT` Read Wuthering Heights
 
-### Creative
+#### Creative
 
 Things I'm going to make and do.
 
@@ -31,7 +37,7 @@ Things I'm going to make and do.
 1. `RJS` Make a little mortgage calculator with React JS
 1. `EJS` Make a cool little app with Ember JS and the Spotify API, [maybe using ideas from this one](https://github.com/neonroots/spotify-ember-template)
 
-### Challenges
+#### Challenges
 
 Things that will be difficult / outside my comfort zone.
 
@@ -42,7 +48,7 @@ Things that will be difficult / outside my comfort zone.
 1. `TEM` Join a sports team
 1. `CLM` Climb outdoors
 
-### Education
+#### Education
 
 Things to learn.
 
@@ -51,7 +57,7 @@ Things to learn.
 1. `BSH` Get better at Bash and give a talk on it too
 1. `DVK` Use Dvorak keyboard for a solid 2 weeks
 
-### Personal
+#### Personal
 
 Things in my personal life.
 
