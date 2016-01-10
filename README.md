@@ -2,7 +2,7 @@
 
 30 things I'm going to achieve in the year I turn 30.
 
-There's actually 33 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
+There are actually 33 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
 
 ### Updates
 
