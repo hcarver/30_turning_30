@@ -2,12 +2,13 @@
 
 30 things I'm going to achieve in the year I turn 30.
 
-There are actually 33 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
+There are actually 34 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
 
 ### Updates
 
 * [Week 1](updates/week_1.md)
 * [Week 2](updates/week_2.md)
+* [Week 3](updates/week_3.md)
 
 ### The List
 
@@ -28,6 +29,7 @@ Things I'm going to make and do.
 1. `GAM` Design and play a tabletop game of my own
 1. `BRD` Bake some nice bread (it's been ages since I did this)
 1. `TRK` Record a track & release it online
+1. `BOK` Write a book about running startups
 1. `KNT` Knit something for myself
 1. `JAM` Join in the jam session at the Silver Bullet
 1. `OPS` Contribute to an open source repo (ideally Rails)
