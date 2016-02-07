@@ -2,7 +2,7 @@
 
 30 things I'm going to achieve in the year I turn 30.
 
-There are actually 34 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
+There are actually more than 30 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
 
 ### Updates
 
@@ -10,6 +10,7 @@ There are actually 34 things here, but that's so that I can fail at some of them
 * [Week 2](updates/week_2.md)
 * [Week 3](updates/week_3.md)
 * [Week 4](updates/week_4.md)
+* [Week 5](updates/week_5.md)
 
 ### The List
 
@@ -34,7 +35,7 @@ Things I'm going to make and do.
 1. `KNT` Knit something for myself
 1. `JAM` Join in the jam session at the Silver Bullet
 1. `OPS` Contribute to an open source repo (ideally Rails)
-1. `BIT` Finish knitting for Bit (Bit will be born at the end of January 2016)
+1. `BIT` ✓ Finish knitting for Bit (Bit will be born at the end of January 2016)
 1. `SUP` Do a stand-up set
 1. `ETH` Make an Ethiopian cuisine meal with injera
 1. `AJS` Make a little live forum / chat site with Angular / the MEAN stack
