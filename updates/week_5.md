@@ -2,9 +2,9 @@
 
 One big completion, hurrah!
 
-1. `BIT` ✓ I finished the knitting for Bit! It actually looks quite good, thankfully given how much time I've spent on it.
-1. `HFM` Really sore feet for most of the week, but I've bought new shoes that should help with that. You've got to speculate to accelerate, or something.
-1. `WSB` Still teetotal despite severe temptation this week.
+1. `BIT` ✓ I finished the knitting for Bit! It actually looks quite good which is lucky, given how much time I've spent on it.
+1. `HFM` Only 2 training runs, but I had really sore feet for most of the week but I've bought expensive new shoes that should help with that. You've got to speculate to accelerate, or something.
+1. `WSB` Still teetotal on Wasabi's tofu curry despite severe temptation this week.
 
 ### Revisions:
 
