@@ -11,6 +11,7 @@ There are actually more than 30 things here, but that's so that I can fail at so
 * [Week 3](updates/week_3.md)
 * [Week 4](updates/week_4.md)
 * [Week 5](updates/week_5.md)
+* [Week 6](updates/week_6.md)
 
 ### The List
 
@@ -49,7 +50,7 @@ Things that will be difficult / outside my comfort zone.
 1. `HFM` Run a half-marathon
 1. `5KM` Run 5km in 24 minutes (current PB is 26:30)
 1. `WAT` Spend a month having no drinks other than water
-1. `WSB` Spend a month without eating from Wasabi (I'm all but addicted to their Tofu Curry)
+1. `WSB` ✓ Spend a month without eating from Wasabi (I'm all but addicted to their Tofu Curry)
 1. `TEM` Join a sports team
 1. `CLM` Climb outdoors
 
