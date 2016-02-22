@@ -12,6 +12,7 @@ There are actually more than 30 things here, but that's so that I can fail at so
 * [Week 4](updates/week_4.md)
 * [Week 5](updates/week_5.md)
 * [Week 6](updates/week_6.md)
+* [Week 7](updates/week_7.md)
 
 ### The List
 
@@ -42,6 +43,7 @@ Things I'm going to make and do.
 1. `AJS` Make a little live forum / chat site with Angular / the MEAN stack
 1. `RJS` Make a little mortgage calculator with React JS
 1. `EJS` Make a cool little app with Ember JS and the Spotify API, [maybe using ideas from this one](https://github.com/neonroots/spotify-ember-template)
+1. `SAX` Play the saxophone / flute / EWI every day for a month.
 
 #### Challenges
 
