@@ -13,6 +13,7 @@ There are actually more than 30 things here, but that's so that I can fail at so
 * [Week 5](updates/week_5.md)
 * [Week 6](updates/week_6.md)
 * [Week 7](updates/week_7.md)
+* [Week 8](updates/week_8.md)
 
 ### The List
 
