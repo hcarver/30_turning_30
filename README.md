@@ -76,3 +76,4 @@ Things in my personal life.
 1. `CLD` Host a murder mystery party
 1. `WIF` Marry my fiancee (most of the groundwork done on this one, TBH, but still a lot of organisation to go)
 1. `FLT` Buy a flat
+1. `BND` Play in a band
