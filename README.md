@@ -26,7 +26,7 @@ Cultural experiences I feel I've missed out on.
 
 1. `SPO` Watch 2001 A Space Odyssey
 1. `JEY` ✓ Read Jane Eyre
-1. `ZEL` Finish Zelda on the NES
+1. `ZEL` ✓ Finish Zelda on the NES
 1. `WUT` Read Wuthering Heights
 
 #### Creative
