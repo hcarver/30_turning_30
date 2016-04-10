@@ -7,9 +7,11 @@
 # Ideas for next year.
 
 1. Learn the drums
+1. Get better at piano
 1. Learn to do a piercing whistle
 1. Learn the Colemak keyboard layout
 1. Go to an improv comedy class
 1. Start typing making sure I press shift with the hand that isn't doing the letter (this feels like it slows me down a lot)
 1. Do x talks at y conferences
-1. Stop saying "cool". The generation above find it odd, the generation below find it out of touch.
+1. Stop saying "cool" and "yeah". The generation above find it odd, the generation below find it out of touch.
+1. `EDN` Go to the Edinburgh Fringe
