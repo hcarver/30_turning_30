@@ -18,8 +18,11 @@ There are actually more than 30 things here, but that's so that I can fail at so
 * [Week 10 and 11](updates/week_10_and_11.md)
 * [Week 12](updates/week_12.md)
 * [Week 13 and 14](updates/week_13_and_14.md)
+* [Weeks 15-19](updates/week_15_to_19.md)
 
 ### The List
+
+Current progress: **8** / 30
 
 #### Media, Culture etc.
 
@@ -41,7 +44,7 @@ Things I'm going to make and do.
 1. `BOK` Write a book about running startups
 1. `KNT` Knit something for myself
 1. `JAM` Join in the jam session at the Silver Bullet
-1. `OPS` Contribute to an open source repo (ideally Rails)
+1. `OPS` ✓ Contribute to an open source repo (ideally Rails)
 1. `BIT` ✓ Finish knitting for Bit (Bit will be born at the end of January 2016)
 1. `SUP` Do a stand-up set
 1. `ETH` Make an Ethiopian cuisine meal with injera
@@ -54,7 +57,7 @@ Things I'm going to make and do.
 
 Things that will be difficult / outside my comfort zone.
 
-1. `HFM` Run a half-marathon
+1. `HFM` ✓ Run a half-marathon
 1. `5KM` Run 5km in 24 minutes (current PB is 26:30)
 1. `WAT` Spend a month having no drinks other than water
 1. `WSB` ✓ Spend a month without eating from Wasabi (I'm all but addicted to their Tofu Curry)
@@ -78,5 +81,5 @@ Things in my personal life.
 1. `LUD` Have a technology-free day
 1. `CLD` Host a murder mystery party
 1. `WIF` Marry my fiancee (most of the groundwork done on this one, TBH, but still a lot of organisation to go)
-1. `FLT` Buy a flat
+1. `FLT` ✓ Buy a flat
 1. `BND` Play in a band
