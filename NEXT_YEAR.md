@@ -15,3 +15,4 @@
 1. Do x talks at y conferences
 1. Stop saying "cool" and "yeah". The generation above find it odd, the generation below find it out of touch.
 1. `EDN` Go to the Edinburgh Fringe
+1. Read Bleak House
