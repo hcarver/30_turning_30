@@ -16,3 +16,7 @@
 1. Stop saying "cool" and "yeah". The generation above find it odd, the generation below find it out of touch.
 1. `EDN` Go to the Edinburgh Fringe
 1. Read Bleak House
+1. Finish Pikmin
+1. Read The Tempest
+1. Majora's Mask
+1. Ocarina of Time
