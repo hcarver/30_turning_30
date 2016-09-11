@@ -91,7 +91,7 @@ Things in my personal life.
 
 #### Discarded
 
-1. ~~ `5KM` Run 5km in 24 minutes (current PB is 26:30) ~~
-1. ~~ `AJS` Make a little live forum / chat site with Angular / the MEAN stack ~~
-1. ~~ `RJS` Make a little mortgage calculator with React JS ~~
-1. ~~ `EJS` Make a cool little app with Ember JS and the Spotify API, [maybe using ideas from this one](https://github.com/neonroots/spotify-ember-template) ~~
+1. ~~`5KM` Run 5km in 24 minutes (current PB is 26:30)~~
+1. ~~`AJS` Make a little live forum / chat site with Angular / the MEAN stack~~
+1. ~~`RJS` Make a little mortgage calculator with React JS~~
+1. ~~`EJS` Make a cool little app with Ember JS and the Spotify API, [maybe using ideas from this one](https://github.com/neonroots/spotify-ember-template)~~
