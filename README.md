@@ -1,6 +1,6 @@
 # 30 Turning 30
 
-30 things I'm going to achieve in the year I turn 30.
+30 things I aimed to achieve in the year I turned 30.
 
 There are actually more than 30 things here, but that's so that I can fail at some of them or change my mind about doing them, but still make it to 30 overall. Some of them have external dependencies, so I might end up failing despite my best efforts.
 
@@ -21,10 +21,11 @@ There are actually more than 30 things here, but that's so that I can fail at so
 * [Weeks 15-19](updates/week_15_to_19.md)
 * [Weeks 20-25](updates/week_20_to_25.md)
 * [Weeks 26-36](updates/week_26_to_36.md)
+* [Weeks 27-52](updates/week_37_to_52.md)
 
 ### The List
 
-Current progress: **14** / 30
+Current progress: **16** / 30
 
 #### Done
 
@@ -42,6 +43,8 @@ Current progress: **14** / 30
 1. `WIF` ✓ Marry my fiancee (most of the groundwork done on this one, TBH, but still a lot of organisation to go)
 1. `FLT` ✓ Buy a flat
 1. `HNY` ✓ Organise and go on honeymoon
+1. `OCF` ✓ Take my DIY Only Connect app and make it available for other people.
+1. `RED` ✓ Redecorate our new lounge
 
 #### Media, Culture etc.
 
@@ -63,7 +66,6 @@ Things I'm going to make and do.
 1. `SUP` Do a stand-up set
 1. `ETH` Make an Ethiopian cuisine meal with injera
 1. `SAX` Play the saxophone / flute / EWI every day for a month.
-1. `OCF` Take my DIY Only Connect app and make it available for other people.
 
 #### Challenges
 
@@ -87,7 +89,6 @@ Things in my personal life.
 
 1. `CLD` Host a murder mystery party
 1. `BND` Play in a band
-1. `RED` Redecorate our new lounge
 
 #### Discarded
 
